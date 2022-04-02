@@ -16,6 +16,7 @@
     <application>
         <activity
                 android:name=".SecondActivity"
+                android:screenOrientation="portrait"
                 android:theme="@style/Theme.AppCompat.NoActionBar">
             <meta-data
                     android:name="flutterEmbedding"
